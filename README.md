@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dilshadcode
+- 👋 Hi, I’m @Dilshad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on 
